@@ -39,7 +39,7 @@ Desde la carpeta raiz del repositorio:
 streamlit run "TP SIM FINAL/app.py"
 ```
 
-Luego abrir en navegador la URL local que muestra Streamlit (normalmente `http://localhost:8501`).
+Luego abrir en navegador la URL local que muestra Streamlit (normalmente `http://localhost:8502`).
 
 ## Parametros configurables
 
